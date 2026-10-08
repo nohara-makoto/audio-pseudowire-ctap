@@ -5,7 +5,7 @@
 **Document Status:** Experimental Technical Specification  
 **Version:** 0.3  
 **Intended Status:** Experimental  
-**Author:** TBD  
+**Author:** makoto nohara  
 **Date:** October 2026
 
 ---
