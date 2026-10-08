@@ -5,7 +5,7 @@
 **文書ステータス:** Experimental Technical Specification  
 **バージョン:** 0.3  
 **想定ステータス:** Experimental  
-**著者:** TBD  
+**著者:** makoto nohara  
 **日付:** 2026年10月
 
 ---
